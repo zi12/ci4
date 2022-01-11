@@ -1,0 +1,70 @@
+CRITICAL - 2022-01-09 23:39:09 --> Call to undefined method App\Models\EmployeModel::getDataByID
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(45): CodeIgniter\Model->__call('getDataByID', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->edit('0')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 23:43:35 --> Call to undefined method App\Models\EmployeModel::getDataByID
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(45): CodeIgniter\Model->__call('getDataByID', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->edit('0')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 23:50:35 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-09 23:50:37 --> syntax error, unexpected '/'
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-09 23:55:08 --> Call to undefined method App\Models\EmployeModel::getDataByID
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(45): CodeIgniter\Model->__call('getDataByID', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->edit('0')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 23:56:35 --> Call to undefined method App\Models\EmployeModel::getDataByID
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(45): CodeIgniter\Model->__call('getDataByID', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->edit('0')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 23:56:50 --> Call to undefined method App\Models\EmployeModel::getDataByID
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(45): CodeIgniter\Model->__call('getDataByID', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->edit('1')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-09 23:58:46 --> Call to undefined method App\Models\EmployeModel::ubah
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(59): CodeIgniter\Model->__call('ubah', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->update()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

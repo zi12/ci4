@@ -1,0 +1,83 @@
+CRITICAL - 2021-12-06 23:01:12 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:01:56 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:01:58 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:03:09 --> Undefined variable: query
+#0 C:\xampp\htdocs\codeigniter4\app\Models\EmployeModel.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(17): App\Models\EmployeModel->getData()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->index()
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-12-06 23:09:07 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:09:11 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:09:19 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Empl...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Empl...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(8): spl_autoload_call('App\\Models\\Empl...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(801): App\Controllers\Employe->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2021-12-06 23:09:36 --> Call to undefined method App\Models\EmployeModel::finAll
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Employe.php(17): CodeIgniter\Model->__call('finAll', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(824): App\Controllers\Employe->index()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employe))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

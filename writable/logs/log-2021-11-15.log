@@ -1,0 +1,49 @@
+CRITICAL - 2021-11-15 21:46:41 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or '{'
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web')
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-15 21:47:14 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or '{'
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web')
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-15 21:47:23 --> syntax error, unexpected 'echo' (T_ECHO), expecting ';' or '{'
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web')
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-15 21:48:33 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(519): include_once()
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web')
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2021-11-15 22:21:05 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web/product')
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web/product')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-11-15 22:22:19 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Router\Router.php(176): CodeIgniter\Router\Router->autoRoute('web/product')
+#1 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(718): CodeIgniter\Router\Router->handle('web/product')
+#2 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\codeigniter4-CodeIgniter4-8c7f701\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
